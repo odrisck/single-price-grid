@@ -5,9 +5,13 @@ body {
 }
 .content {
   max-width: 80%;
+  margin: 0 auto;
 }
 .head {
   background-color: #ffff;
+}
+.head > .h1 {
+  color: hsl(179, 62%, 43%);
 }
 
 .main {
