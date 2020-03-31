@@ -10,14 +10,19 @@ body {
 .head {
   background-color: #ffff;
 }
-.head > .h1 {
+.head > h1 {
   color: hsl(179, 62%, 43%);
+}
+.head > h2 {
+  color: hsl(71, 73%, 54%);
 }
 
 .main {
   background-color: hsl(179, 62%, 43%);
+  color: hsl(204, 43%, 93%);
 }
 
 .us {
   background-color: hsl(179, 62%, 50%);
+  color: hsl(204, 43%, 93%);
 }
